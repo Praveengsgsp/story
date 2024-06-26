@@ -1,3 +1,5 @@
 Hello everyone this Start of new beginning. 
 
 changes for the plot-twist branch
+
+changes for the 26.06.2024 - trained all CHA at HAL DBS
